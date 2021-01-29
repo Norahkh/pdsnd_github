@@ -3,9 +3,10 @@ Date created
 
 Project Title
 Bikeshare project
-
+ 
 Description
-Using what I have learned about Python and Panda on Udacity course
+Describe what your project is about and what it does
+>>>>>>> parent of 5820a25 ( Description)
 
 Files used
 chicago.csv new-york-city.csv washington.csv
