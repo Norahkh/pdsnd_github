@@ -5,7 +5,7 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+Using what I have learned about Python and Panda on Udacity course 
 
 ### Files used
 Include the files used
