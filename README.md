@@ -5,7 +5,7 @@
 Biceskare project
 
 ### Description
-Describe what your project is about and what it does
+applying what I have learned about Python and Panda from Udacity course
 
 ### Files used
 Include the files used
