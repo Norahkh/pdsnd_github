@@ -8,9 +8,7 @@ Bikeshare project
 Describe what your project is about and what it does
 
 ### Files used
-chicago.csv
-new-york-city.csv
-washington.csv
+Include the files used
 
 ### Credits
 https://youtu.be/h3VCQjyaLws
