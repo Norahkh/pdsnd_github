@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikeshare project
 
 ### Description
-Using what I have learned about Python and Panda on Udacity course 
+Describe what your project is about and what it does
 
 ### Files used
 chicago.csv
